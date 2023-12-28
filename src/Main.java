@@ -5,6 +5,7 @@ public class Main {
                 "2. Book Reservation" + "\n" +
                 "3. Generate Bill" + "\n" +
                 "4. Feedback";
+
         System.out.println(str);
     }
 }
